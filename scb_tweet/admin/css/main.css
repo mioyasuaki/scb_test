@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+@import "reset.css";
+
+a:link, a:visited{
+	color:#333;
+	text-decoration:none;
+}
+a:hover{
+	text-decoration:underline;
+}
+
+
+body{
+	color:#333;
+	background:url(../img/bg_dots.gif);
+}
+
+#wrapper{
+	margin:0 auto 40px;
+	width:640px;
+	
+}
+
+#main{
+	width:570px;
+	padding:35px;
+	background:#FFF;
+}
+
+
+#socailBtns{
+	width:400px;
+	margin:12px 0;
+}
+
+#tweetBtn{
+	width:106px;
+	float:left;
+}
+#likeBtn{
+	width:200px;
+	float:left;
+}
+
+
+h2{
+	margin:40px 0 20px;
+}
+
+h3{
+	margin:12px 0 8px;
+}
+
+
+#eventsList{
+	margin-bottom:70px;
+}
+
+#eventsList li{
+	float:left;
+	width:275px;
+	font-size:12px;
+	font-family:"メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	line-height:180%;
+}
+
+#logoList li{
+	float:left;
+	margin-right:25px;
+}
+
+#logoList {
+	margin-bottom:20px;
+}
+
+#copyright{
+	margin-top:20px;
+}
