@@ -1,8 +1,6 @@
 
 
-get_tweet�t�H���_�́A�������ăc�C�[�g���f�[�^�x�[�X�ɕۑ�����V�X�e���B
+get_tweetフォルダは、検索してツイートをデータベースに保存するシステム。
 
-post_tweet�t�H���_�́AOauth�F�؂�cron�𗘗p���ăc�C�[�g����V�X�e���B
-
-
+post_tweetフォルダは、Oauth認証でcronを利用してツイートするシステム。
 
