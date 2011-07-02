@@ -16,7 +16,7 @@
 //print getcwd()."<br>";
 
 //TODO myDBは、汎用性が高いので、他に移すべき
-require_once('../cron/get_tweet/myDB.php');
+require_once('../myDB.php');
 
 $db = connectDB();
 
